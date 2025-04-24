@@ -1,0 +1,39 @@
+_repo: The-amazing-adventures-of-Letitia-Carberry_75922
+_version: 0.0.1
+contributor:
+  illustrator:
+    agent_name: Christy, Howard Chandler
+    birthdate: 1873
+    deathdate: 1952
+    gutenberg_agent_id: '4540'
+    url: http://www.gutenberg.org/2009/agents/4540
+    wikipedia: https://en.wikipedia.org/wiki/Howard_Chandler_Christy
+creator:
+  author:
+    agent_name: Rinehart, Mary Roberts
+    birthdate: 1876
+    deathdate: 1958
+    gutenberg_agent_id: '183'
+    url: http://www.gutenberg.org/2009/agents/183
+    wikipedia: https://en.wikipedia.org/wiki/Mary_Roberts_Rinehart
+description: ''
+gutenberg_issued: '2025-04-21'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '75922'
+language: en
+pgterms:marc904: https://babel.hathitrust.org/cgi/pt?id=nyp.33433076053846&seq=9
+pgterms:marc905: 20250419081654rinehart
+pgterms:marc906: '1911'
+pgterms:marc907: US
+production_note: Emmanuel Ackerman, David E. Brown, Andrew Butchers, Joyce Wilson,
+  and the Online Distributed Proofreading Team at https://www.pgdp.net (This book
+  was produced from images made available by the HathiTrust Digital Library.)
+publication_note: '  $aIndianapolis, IN :$bThe Bobbs-Merrill Company, $c1911.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: The amazing adventures of Letitia Carberry
+url: http://www.gutenberg.org/ebooks/75922
