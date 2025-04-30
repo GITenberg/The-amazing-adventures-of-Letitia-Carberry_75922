@@ -8,6 +8,9 @@ contributor:
     gutenberg_agent_id: '4540'
     url: http://www.gutenberg.org/2009/agents/4540
     wikipedia: https://en.wikipedia.org/wiki/Howard_Chandler_Christy
+covers:
+- cover_type: archival
+  image_path: 75922-h/images/cover.jpg
 creator:
   author:
     agent_name: Rinehart, Mary Roberts
@@ -17,6 +20,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/183
     wikipedia: https://en.wikipedia.org/wiki/Mary_Roberts_Rinehart
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/75922#The-amazing-adventures-of-Letitia-Carberry
 gutenberg_issued: '2025-04-21'
 gutenberg_type: Text
 identifiers:
